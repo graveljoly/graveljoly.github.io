@@ -1,0 +1,9 @@
+title: blog test: might or might not post articles eventually
+email: your-email@example.com
+description: >- # this means “folded style” in YAML
+  My personal blog.
+baseurl: "" # leave empty unless your site is in a subfolder
+url: "https://yourusername.github.io" # change to your GitHub Pages URL
+theme: minima
+plugins:
+  - jekyll-feed
